@@ -78,6 +78,7 @@ grails:
             xml:
               - text/xml
               - application/xml
+            htmx: application/htmx+xml
     urlmapping:
         cache:
             maxsize: 1000
